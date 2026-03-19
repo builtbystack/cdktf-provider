@@ -1,0 +1,3 @@
+# `google_scc_project_custom_module`
+
+Refer to the Terraform Registry for docs: [`google_scc_project_custom_module`](https://registry.terraform.io/providers/hashicorp/google/7.24.0/docs/resources/scc_project_custom_module).

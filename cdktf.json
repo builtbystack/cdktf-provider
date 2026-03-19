@@ -1,0 +1,11 @@
+{
+  "language": "go",
+  "app": "go run *.go",
+  "codeMakerOutput": "src",
+  "sendCrashReports": "false",
+  "terraformProviders": [
+    "hashicorp/google@~> 7.24.0",
+    "hashicorp/google-beta@~> 7.24.0"
+  ],
+  "projectId": "51d94503-c062-47d0-a37c-bd03a2d18a50"
+}

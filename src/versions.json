@@ -1,0 +1,4 @@
+{
+  "registry.terraform.io/hashicorp/google": "7.24.0",
+  "registry.terraform.io/hashicorp/google-beta": "7.24.0"
+}

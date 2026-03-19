@@ -1,0 +1,3 @@
+# `google_pubsub_subscription`
+
+Refer to the Terraform Registry for docs: [`google_pubsub_subscription`](https://registry.terraform.io/providers/hashicorp/google/7.24.0/docs/resources/pubsub_subscription).

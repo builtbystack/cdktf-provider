@@ -1,0 +1,12 @@
+package apigeeinstance
+
+
+type ApigeeInstanceTimeouts struct {
+	// Docs at Terraform Registry: {@link https://registry.terraform.io/providers/hashicorp/google/7.24.0/docs/resources/apigee_instance#create ApigeeInstance#create}.
+	Create *string `field:"optional" json:"create" yaml:"create"`
+	// Docs at Terraform Registry: {@link https://registry.terraform.io/providers/hashicorp/google/7.24.0/docs/resources/apigee_instance#delete ApigeeInstance#delete}.
+	Delete *string `field:"optional" json:"delete" yaml:"delete"`
+	// Docs at Terraform Registry: {@link https://registry.terraform.io/providers/hashicorp/google/7.24.0/docs/resources/apigee_instance#update ApigeeInstance#update}.
+	Update *string `field:"optional" json:"update" yaml:"update"`
+}
+
