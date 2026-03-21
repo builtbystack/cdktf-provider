@@ -1,0 +1,154 @@
+//go:build no_runtime_type_checking
+
+package containernodepool
+
+// Building without runtime type checking enabled, so all the below just return nil
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetAnyMapAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetBooleanAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetBooleanMapAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetListAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetNumberAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetNumberListAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetNumberMapAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetStringAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateGetStringMapAttributeParameters(terraformAttribute *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateInterpolationForAttributeParameters(property *string) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validatePutEvictionMinimumReclaimParameters(value *ContainerNodePoolNodeConfigKubeletConfigEvictionMinimumReclaim) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validatePutEvictionSoftParameters(value *ContainerNodePoolNodeConfigKubeletConfigEvictionSoft) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validatePutEvictionSoftGracePeriodParameters(value *ContainerNodePoolNodeConfigKubeletConfigEvictionSoftGracePeriod) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validatePutMemoryManagerParameters(value *ContainerNodePoolNodeConfigKubeletConfigMemoryManager) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validatePutTopologyManagerParameters(value *ContainerNodePoolNodeConfigKubeletConfigTopologyManager) error {
+	return nil
+}
+
+func (c *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateResolveParameters(_context cdktf.IResolveContext) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetAllowedUnsafeSysctlsParameters(val *[]*string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetComplexObjectIndexParameters(val interface{}) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetComplexObjectIsFromSetParameters(val *bool) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetContainerLogMaxFilesParameters(val *float64) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetContainerLogMaxSizeParameters(val *string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetCpuCfsQuotaParameters(val interface{}) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetCpuCfsQuotaPeriodParameters(val *string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetCpuManagerPolicyParameters(val *string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetEvictionMaxPodGracePeriodSecondsParameters(val *float64) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetImageGcHighThresholdPercentParameters(val *float64) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetImageGcLowThresholdPercentParameters(val *float64) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetImageMaximumGcAgeParameters(val *string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetImageMinimumGcAgeParameters(val *string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetInsecureKubeletReadonlyPortEnabledParameters(val *string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetInternalValueParameters(val *ContainerNodePoolNodeConfigKubeletConfig) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetMaxParallelImagePullsParameters(val *float64) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetPodPidsLimitParameters(val *float64) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetSingleProcessOomKillParameters(val interface{}) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetTerraformAttributeParameters(val *string) error {
+	return nil
+}
+
+func (j *jsiiProxy_ContainerNodePoolNodeConfigKubeletConfigOutputReference) validateSetTerraformResourceParameters(val cdktf.IInterpolatingParent) error {
+	return nil
+}
+
+func validateNewContainerNodePoolNodeConfigKubeletConfigOutputReferenceParameters(terraformResource cdktf.IInterpolatingParent, terraformAttribute *string) error {
+	return nil
+}
+
