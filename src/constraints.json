@@ -2,6 +2,6 @@
   "cdktf": "0.21.0",
   "providers": {
     "google": "~> 7.24.0",
-    "google-beta": "~> 7.24.0"
+    "googlebeta": "~> 7.24.0"
   }
 }
